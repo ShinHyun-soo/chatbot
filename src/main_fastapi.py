@@ -8,11 +8,11 @@ from transformers import LlamaForCausalLM, AutoTokenizer
 app = FastAPI()
 
 # Tokenizer 로드
-tokenizer = AutoTokenizer.from_pretrained("news_gpt2")
+tokenizer = AutoTokenizer.from_pretrained("../news_gpt2")
 
 # 모델 로드
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-model = LlamaForCausalLM.from_pretrained("news_llama")
+model = LlamaForCausalLM.from_pretrained('../news_llama')
 model.to(device)
 
 def get_answer(prompt):
