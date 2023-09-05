@@ -1,7 +1,7 @@
 ![image](https://github.com/ShinHyun-soo/chatbot/assets/69250097/3b67030d-95de-4aa4-a288-f0bc173ffd38)
 # Chatbot 
 
-    Chatbot using LLaMA pre-trained by cnn_dailymail
+    Chatbot using LLaMA pre-trained by cnn_dailymail.
 
 [cnn_dailymail](https://huggingface.co/datasets/ccdv/cnn_dailymail)
 
