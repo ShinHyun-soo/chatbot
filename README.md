@@ -1,4 +1,4 @@
-![image](https://github.com/ShinHyun-soo/chatbot/assets/69250097/3b67030d-95de-4aa4-a288-f0bc173ffd38)
+![unnamed](https://github.com/ShinHyun-soo/chatbot/assets/69250097/89ec43f6-6f66-41bf-9444-9193ace11a4d)
 # Chatbot 
 
     Chatbot using LLaMA pre-trained by cnn_dailymail.
